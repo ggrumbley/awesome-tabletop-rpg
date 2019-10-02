@@ -65,6 +65,7 @@ Tools to host a session remotely
 
 ##### [Roll20](https://roll20.net/) - Web platform to host games online. Includes dynamic char sheets and a Marketplace with integrated content for several systems.
 ##### [Fantasy Grounds](https://www.fantasygrounds.com) - Desktop virtual tabletop app. Includes, among others, DnD, Call of Cthulhu and Pathfinder content.
+##### [Astral TableTop](https://www.astraltabletop.com/) - Web platform to host games online. Includes integration with Dungeon Masters Guild and DriveThru RPG.
 
 ### Resources
 
